@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f0fdf4"/>
+  <text x="200" y="140" font-family="Arial, sans-serif" font-size="16" fill="#166534" text-anchor="middle">Question 4</text>
+  <text x="200" y="165" font-family="Arial, sans-serif" font-size="12" fill="#15803d" text-anchor="middle">Heart Sounds S1 &amp; S2</text>
+  <ellipse cx="200" cy="220" rx="80" ry="50" fill="#fecaca" stroke="#dc2626" stroke-width="2"/>
+  <text x="200" y="225" font-family="Arial, sans-serif" font-size="12" fill="#dc2626" text-anchor="middle">Heart Diagram</text>
+</svg>

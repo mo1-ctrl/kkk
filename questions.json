@@ -1,0 +1,458 @@
+{
+  "exam_name": "Health Assessment — المحاضرة الأولى",
+  "exam_password": "2005",
+  "video_filename": "lecture1.mp4",
+  "created_by": "Mohamed Salah",
+  "questions": [
+    {
+      "id": 1,
+      "question_id": "q1",
+      "sequential_number": 1,
+      "question_type": "mcq",
+      "question_text": "What is the normal range of blood pressure for an adult?",
+      "highlight_terms": ["blood pressure", "normal"],
+      "options": {
+        "A": "80/60 mmHg",
+        "B": "120/80 mmHg",
+        "C": "140/90 mmHg",
+        "D": "160/100 mmHg"
+      },
+      "correct_answer": "B",
+      "explanation_egyptian": "الضغط الطبيعي هو 120/80 ودا المعروف إنه Normotensive، اللي فوق 140/90 يتعتبر Hypertension يعني ارتفاع ضغط الدم.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "12"
+    },
+    {
+      "id": 2,
+      "question_id": "q2",
+      "sequential_number": 2,
+      "question_type": "mcq",
+      "question_text": "Which of the following is a primary sign of inflammation?",
+      "highlight_terms": ["inflammation", "signs"],
+      "options": {
+        "A": "Decreased temperature",
+        "B": "Rubor (redness)",
+        "C": "Decreased blood flow",
+        "D": "Loss of sensation"
+      },
+      "correct_answer": "B",
+      "explanation_egyptian": "علامات الالتهاب الخمسة هي: Rubor (احمرار)، Calor (حرارة)، Tumor (تورم)، Dolor (ألم)، و Functio Laesa (فقدان الوظيفة). الاحمرار بيحصل بسبب زيادة تدفق الدم للمنطقة المصابة.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "15"
+    },
+    {
+      "id": 3,
+      "question_id": "q3",
+      "sequential_number": 3,
+      "question_type": "mcq",
+      "question_text": "The normal respiratory rate for an adult at rest is:",
+      "highlight_terms": ["respiratory rate", "normal", "adult"],
+      "options": {
+        "A": "5-10 breaths/min",
+        "B": "12-20 breaths/min",
+        "C": "25-35 breaths/min",
+        "D": "40-60 breaths/min"
+      },
+      "correct_answer": "B",
+      "explanation_egyptian": "معدل التنفس الطبيعي للبالغين هو 12-20 نفس في الدقيقة. الأطفال بيكون معدلهم أعلى، والمسنين ممكن يكون أقل شوية. لو أقل من 12 اسمه Bradypnea، ولو أكتر من 20 اسمه Tachypnea.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "18"
+    },
+    {
+      "id": 4,
+      "question_id": "q4",
+      "sequential_number": 4,
+      "question_type": "mcq",
+      "question_text": "When assessing heart sounds, S1 is caused by:",
+      "highlight_terms": ["heart sounds", "S1"],
+      "options": {
+        "A": "Closure of the aortic and pulmonary valves",
+        "B": "Closure of the mitral and tricuspid valves",
+        "C": "Opening of the mitral valve",
+        "D": "Opening of the aortic valve"
+      },
+      "correct_answer": "B",
+      "explanation_egyptian": "الصوت S1 (LUB) بيحصل بسبب قفل الصمامات Mitral و Tricuspid. بيسمعه أحلى عند القمة Apex. الصوت S2 (DUB) بيحصل بسبب قفل الصمامات Aortic و Pulmonary.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "22"
+    },
+    {
+      "id": 5,
+      "question_id": "q5",
+      "sequential_number": 5,
+      "question_type": "mcq",
+      "question_text": "Which cranial nerve is responsible for pupillary constriction?",
+      "highlight_terms": ["cranial nerve", "pupillary constriction"],
+      "options": {
+        "A": "Optic nerve (CN II)",
+        "B": "Oculomotor nerve (CN III)",
+        "C": "Trochlear nerve (CN IV)",
+        "D": "Abducens nerve (CN VI)"
+      },
+      "correct_answer": "B",
+      "explanation_egyptian": "العصب Oculomotor (CN III) هو المسؤول عن تضيق البؤبؤ. لو العصب ده اتضرر، البؤبؤ بيبقى واسع (Mydriasis) ومش بيستجيب للضوء. العصب Optic (CN II) مسؤول عن الرؤية نفسها.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "28"
+    },
+    {
+      "id": 6,
+      "question_id": "q6",
+      "sequential_number": 6,
+      "question_type": "mcq",
+      "question_text": "The Glasgow Coma Scale (GCS) assesses which three parameters?",
+      "highlight_terms": ["Glasgow Coma Scale", "GCS", "parameters"],
+      "options": {
+        "A": "Blood pressure, heart rate, temperature",
+        "B": "Eye opening, verbal response, motor response",
+        "C": "Pupil size, breathing, circulation",
+        "D": "Memory, orientation, calculation"
+      },
+      "correct_answer": "B",
+      "explanation_egyptian": "الـ GCS بيقيس 3 حاجات: Eye Opening (من 1-4)، Verbal Response (من 1-5)، Motor Response (من 1-6). المجموع الكلي 15. لو أقل من 8 يعني Coma شديد وبيحتاج تنبيب. بيستخدموه لتقييم مستوى الوعي.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "35"
+    },
+    {
+      "id": 7,
+      "question_id": "q7",
+      "sequential_number": 7,
+      "question_type": "mcq",
+      "question_text": "Normal capillary refill time should be less than:",
+      "highlight_terms": ["capillary refill", "normal"],
+      "options": {
+        "A": "1 second",
+        "B": "2 seconds",
+        "C": "5 seconds",
+        "D": "10 seconds"
+      },
+      "correct_answer": "B",
+      "explanation_egyptian": "وقت رجوع الكابيلاري الطبيعي أقل من 2 ثانية. بنضغط على الظفر أو الجلد ونعد الوقت اللي يرجع فيه اللون الأحمر. لو تأخر أكتر من 2 ثانية ممكن يدل على ضعف الدورة الدموية أو Dehydration.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "40"
+    },
+    {
+      "id": 8,
+      "question_id": "q8",
+      "sequential_number": 8,
+      "question_type": "mcq",
+      "question_text": "When performing abdominal assessment, the correct sequence is:",
+      "highlight_terms": ["abdominal assessment", "sequence", "order"],
+      "options": {
+        "A": "Inspection, Auscultation, Percussion, Palpation",
+        "B": "Inspection, Palpation, Percussion, Auscultation",
+        "C": "Auscultation, Inspection, Palpation, Percussion",
+        "D": "Palpation, Percussion, Auscultation, Inspection"
+      },
+      "correct_answer": "A",
+      "explanation_egyptian": "ترتيب فحص البطن مهم جداً: Inspection (تأمل)، Auscultation (سماع) - ده لازم يكون قبل اللمس، Percussion (قرع)، Palpation (لمس). لو لمست الأول بتغير أصوات الأمعاء وتفقد المعلومات.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "45"
+    },
+    {
+      "id": 9,
+      "question_id": "q9",
+      "sequential_number": 9,
+      "question_type": "mcq",
+      "question_text": "Which of the following indicates left-sided heart failure?",
+      "highlight_terms": ["heart failure", "left-sided"],
+      "options": {
+        "A": "Jugular vein distension",
+        "B": "Peripheral edema",
+        "C": "Pulmonary crackles",
+        "D": "Hepatomegaly"
+      },
+      "correct_answer": "C",
+      "explanation_egyptian": "الـ Pulmonary Crackles من علامات Left-sided Heart Failure لأن الدم بيرجع للرئة. الـ JVD و Peripheral Edema و Hepatomegaly من علامات Right-sided Heart Failure لأن الدم بيرجع للجسم.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "52"
+    },
+    {
+      "id": 10,
+      "question_id": "q10",
+      "sequential_number": 10,
+      "question_type": "mcq",
+      "question_text": "The normal range of body temperature (oral) is:",
+      "highlight_terms": ["body temperature", "normal", "oral"],
+      "options": {
+        "A": "35.0°C - 36.0°C",
+        "B": "36.1°C - 37.2°C",
+        "C": "37.5°C - 38.5°C",
+        "D": "38.5°C - 39.5°C"
+      },
+      "correct_answer": "B",
+      "explanation_egyptian": "الحرارة الطبيعية عن طريق الفم من 36.1 لـ 37.2 درجة سيليزية. الحرارة من الشرج أعلى بحوالي 0.5 درجة، ومن تحت الإبط أقل بحوالي 0.5 درجة. الحرارة أعلى من 38 درجة تعتبر حمى.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "8"
+    },
+    {
+      "id": 11,
+      "question_id": "q11",
+      "sequential_number": 11,
+      "question_type": "mcq",
+      "question_text": "When assessing the thyroid gland, the patient should:",
+      "highlight_terms": ["thyroid", "assessment"],
+      "options": {
+        "A": "Flex the neck forward",
+        "B": "Extend the neck slightly and swallow",
+        "C": "Turn the head to the left",
+        "D": "Hold breath"
+      },
+      "correct_answer": "B",
+      "explanation_egyptian": "لما بتفحص الغدة الدرقية، المريض يبص للأعلى (extend neck) ويبلع. البلع بيخلي الغدة تتحرك وتبقى أسهل في التحسس. بتحسها من ورا وأمام والبلع بيساعد تميزها عن الأنسجة حواليها.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "58"
+    },
+    {
+      "id": 12,
+      "question_id": "q12",
+      "sequential_number": 12,
+      "question_type": "mcq",
+      "question_text": "A pulsus paradoxus greater than 10 mmHg is associated with:",
+      "highlight_terms": ["pulsus paradoxus", "mmHg"],
+      "options": {
+        "A": "Hypertension",
+        "B": "Cardiac tamponade or severe asthma",
+        "C": "Aortic stenosis",
+        "D": "Mitral regurgitation"
+      },
+      "correct_answer": "B",
+      "explanation_egyptian": "الـ Pulsus Paradoxus هو انخفاض ضغط الدم أكثر من 10 mmHg أثناء الشهيق. ده بيحصل في Cardiac Tamponade و Severe Asthma و COPD. بيقيسه بنفخ الكفة أكتر من الضغط الانقباضي ونسمع الكوروتكوف.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "62"
+    },
+    {
+      "id": 13,
+      "question_id": "q13",
+      "sequential_number": 13,
+      "question_type": "mcq",
+      "question_text": "The Snellen chart is used to assess:",
+      "highlight_terms": ["Snellen chart", "assessment"],
+      "options": {
+        "A": "Color vision",
+        "B": "Visual acuity",
+        "C": "Peripheral vision",
+        "D": "Eye pressure"
+      },
+      "correct_answer": "B",
+      "explanation_egyptian": "الـ Snellen Chart بيستخدم لقياس Visual Acuity (حدة الإبصار). النتيجة 20/20 تعني رؤية طبيعية. لو 20/40 يعني المريض شايف من على 20 قدم اللي الشخص الطبيعي شايفه من 40 قدم.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "25"
+    },
+    {
+      "id": 14,
+      "question_id": "q14",
+      "sequential_number": 14,
+      "question_type": "mcq",
+      "question_text": "Which reflex is tested by stroking the sole of the foot?",
+      "highlight_terms": ["reflex", "foot", "sole"],
+      "options": {
+        "A": "Patellar reflex",
+        "B": "Achilles reflex",
+        "C": "Babinski reflex",
+        "D": "Plantar reflex"
+      },
+      "correct_answer": "C",
+      "explanation_egyptian": "الـ Babinski Reflex بيتفحص بتحريك أداة حادة على باطن القدم. عند البالغين الطبيعي الأصابع تتجه للأسفل (Flexor). لو اتجهت للأعلى (Extensor) ده علامة على مشكلة في الجهاز العصبي.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "68"
+    },
+    {
+      "id": 15,
+      "question_id": "q15",
+      "sequential_number": 15,
+      "question_type": "mcq",
+      "question_text": "Normal urine output per hour for an adult is approximately:",
+      "highlight_terms": ["urine output", "normal", "adult"],
+      "options": {
+        "A": "10-20 mL/hour",
+        "B": "30-50 mL/hour",
+        "C": "100-150 mL/hour",
+        "D": "200-300 mL/hour"
+      },
+      "correct_answer": "B",
+      "explanation_egyptian": "معدل البول الطبيعي للبالغين حوالي 30-50 مل في الساعة، أو 0.5 مل/كجم/ساعة. لو أقل من 30 مل/ساعة ممكن يدل على Oliguria وبيحتاج متابعة. ده مهم في مراقبة وظائف الكلى والـ Fluid balance.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "72"
+    },
+    {
+      "id": 16,
+      "question_id": "q16",
+      "sequential_number": 16,
+      "question_type": "mcq",
+      "question_text": "The apical pulse is best auscultated at:",
+      "highlight_terms": ["apical pulse", "auscultated"],
+      "options": {
+        "A": "Second intercostal space, right sternal border",
+        "B": "Fifth intercostal space, midclavicular line",
+        "C": "Third intercostal space, left sternal border",
+        "D": "Fourth intercostal space, midaxillary line"
+      },
+      "correct_answer": "B",
+      "explanation_egyptian": "الـ Apical Pulse بيسمع أحلى في المكان الـ Fifth Intercostal Space عند الـ Midclavicular Line (Mitral area). ده مكان القمة Apex. بنعد النبض لمدة دقيقة كاملة لو في Arrhythmia.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "20"
+    },
+    {
+      "id": 17,
+      "question_id": "q17",
+      "sequential_number": 17,
+      "question_type": "mcq",
+      "question_text": "Which of the following is a late sign of increased intracranial pressure?",
+      "highlight_terms": ["intracranial pressure", "late sign"],
+      "options": {
+        "A": "Headache",
+        "B": "Nausea and vomiting",
+        "C": "Cushing's triad",
+        "D": "Restlessness"
+      },
+      "correct_answer": "C",
+      "explanation_egyptian": "الـ Cushing's Triad علامة متأخرة لزيادة الضغط داخل الجمجمة: Bradycardia، Irregular respirations، و Wide pulse pressure. دي علامة خطيرة بتدل على Herniation imminent محتاج تدخل فوري.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "75"
+    },
+    {
+      "id": 18,
+      "question_id": "q18",
+      "sequential_number": 18,
+      "question_type": "mcq",
+      "question_text": "When assessing for dehydration in an infant, the best indicator is:",
+      "highlight_terms": ["dehydration", "infant", "indicator"],
+      "options": {
+        "A": "Skin turgor",
+        "B": "Fontanel assessment",
+        "C": "Weight loss percentage",
+        "D": "All of the above combined"
+      },
+      "correct_answer": "D",
+      "explanation_egyptian": "كل المؤشرات مهمة في تقييم الجفاف عند الأطفال: Skin Turgor (مرونة الجلد)، Fontanel (النافوخ - بيبقى غائر)، و Weight Loss (نقص الوزن). بنجمعهم مع بعض لأن واحد لوحده مش كافي.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "80"
+    },
+    {
+      "id": 19,
+      "question_id": "q19",
+      "sequential_number": 19,
+      "question_type": "mcq",
+      "question_text": "The correct technique for palpating the liver is:",
+      "highlight_terms": ["liver", "palpation", "technique"],
+      "options": {
+        "A": "Deep palpation in the left upper quadrant",
+        "B": "Place hand under right ribs and press deeply while patient inhales",
+        "C": "Light palpation only in the epigastric area",
+        "D": "Percussion only, no palpation needed"
+      },
+      "correct_answer": "B",
+      "explanation_egyptian": "لتحسس الكبد، احط إيدك تحت الأضلاع اليمنى واطلب من المريض يأخذ نفس عميق. الكبد بينزل مع الحجاب الحاجز وتحسه تحت إيدك. لو محسوس أكتر من 1-2 سم تحت الأضلاع ممكن يدل على Hepatomegaly.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "48"
+    },
+    {
+      "id": 20,
+      "question_id": "q20",
+      "sequential_number": 20,
+      "question_type": "mcq",
+      "question_text": "Which breath sound is normally heard over the trachea?",
+      "highlight_terms": ["breath sound", "trachea"],
+      "options": {
+        "A": "Vesicular",
+        "B": "Bronchovesicular",
+        "C": "Bronchial",
+        "D": "Tracheal"
+      },
+      "correct_answer": "D",
+      "explanation_egyptian": "أصوات التنفس: Tracheal (على الرغامي - عالي وخشن)، Bronchial (على القصبة - عالي)، Bronchovesicular (وسط)، Vesicular (على الرئة - ناعم). لو سمعت Bronchial على الرئة ممكن تدل على Consolidation.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "42"
+    },
+    {
+      "id": 21,
+      "question_id": "q21",
+      "sequential_number": 21,
+      "question_type": "mcq",
+      "question_text": "The Mini-Mental State Examination (MMSE) assesses:",
+      "highlight_terms": ["MMSE", "Mini-Mental", "examination"],
+      "options": {
+        "A": "Motor function only",
+        "B": "Cognitive function including orientation, memory, and attention",
+        "C": "Sensory perception",
+        "D": "Cranial nerve function"
+      },
+      "correct_answer": "B",
+      "explanation_egyptian": "الـ MMSE بيقيس الوظائف الإدراكية: Orientation (الزمان والمكان)، Registration (تذكر 3 حاجات)، Attention (الطرح)، Recall (استرجاع الـ 3 حاجات)، Language، و Visual-spatial. المجموع 30 نقطة.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "82"
+    },
+    {
+      "id": 22,
+      "question_id": "q22",
+      "sequential_number": 22,
+      "question_type": "mcq",
+      "question_text": "When assessing jugular venous pressure (JVP), the patient should be positioned at:",
+      "highlight_terms": ["JVP", "jugular venous pressure", "position"],
+      "options": {
+        "A": "Supine flat position",
+        "B": "30-45 degree angle",
+        "C": "Sitting upright",
+        "D": "Left lateral position"
+      },
+      "correct_answer": "B",
+      "explanation_egyptian": "لقياس JVP، المريض يكون على زاوية 30-45 درجة. بنشوف الـ Venous Pulsations في الـ Internal Jugular Vein. الارتفاع الطبيعي أقل من 4 سم فوق الـ Sternal Angle. لو أعلى ممكن يدل على Right Heart Failure.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "54"
+    },
+    {
+      "id": 23,
+      "question_id": "q23",
+      "sequential_number": 23,
+      "question_type": "mcq",
+      "question_text": "A grade 4/6 heart murmur is described as:",
+      "highlight_terms": ["heart murmur", "grade"],
+      "options": {
+        "A": "Barely audible",
+        "B": "Quiet but readily audible",
+        "C": "Loud with a palpable thrill",
+        "D": "Very loud, may be heard with stethoscope barely touching chest"
+      },
+      "correct_answer": "C",
+      "explanation_egyptian": "تقدير الـ Murmur من 1-6: Grade 1 بالكك تسمعه، Grade 4 فيه Thrill (اهتزاز) تتحسه، Grade 6 يسمع بدون سماعة. الـ Thrill بيكون في Grades 4-6. الـ Higher grades بتدل على شدة أكبر.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "24"
+    },
+    {
+      "id": 24,
+      "question_id": "q24",
+      "sequential_number": 24,
+      "question_type": "mcq",
+      "question_text": "Which percussion note would be expected over a pneumothorax?",
+      "highlight_terms": ["percussion", "pneumothorax"],
+      "options": {
+        "A": "Dullness",
+        "B": "Flatness",
+        "C": "Hyperresonance",
+        "D": "Tympany"
+      },
+      "correct_answer": "C",
+      "explanation_egyptian": "الـ Hyperresonance بتسمعها في الـ Pneumothorax لأن الهواء المحبوس بيدي صوت رنان عالي. الـ Dullness في الـ Pleural Effusion، Flatness في الصلبة، Tympany في البطن.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "44"
+    },
+    {
+      "id": 25,
+      "question_id": "q25",
+      "sequential_number": 25,
+      "question_type": "mcq",
+      "question_text": "The Romberg test assesses:",
+      "highlight_terms": ["Romberg test", "assessment"],
+      "options": {
+        "A": "Cerebellar function",
+        "B": "Proprioception and dorsal column function",
+        "C": "Vestibular function only",
+        "D": "Motor strength"
+      },
+      "correct_answer": "B",
+      "explanation_egyptian": "الـ Romberg Test بيقيس الـ Proprioception (الإحساس بالموضع) والـ Dorsal Column. المريض يقف ويربط عينيه. لو اتترنح أو وقع، ده يدل على مشكلة في الـ Proprioception. المخيخ مش بيحتاج عيون عشان التوازن.",
+      "lecture_name": "المحاضرة الأولى",
+      "page_number": "70"
+    }
+  ]
+}
